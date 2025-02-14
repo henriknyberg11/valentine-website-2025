@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Hehehehehehehehe! 🤪🤪🤪",
         message: "Now come get your gift     🍆😏!",
-        emojis: "🍆💦🍆💦🍆💦"  // These will bounce around
+        emojis: "🍆💦"  // These will bounce around
     },
 
     // Color scheme for the website
